@@ -62,9 +62,3 @@ Para a correção, você deve enviar o banco e as evidências:
     git push origin main
 
     ```
-
-2.  **Poste os Prints:** No local indicado para a entrega, anexe o **Print do Antes** e o **Print do Depois**, ambos exibindo claramente o resultado do comando `SELECT`.
-
----
-
-Deseja que eu adicione uma **instrução específica** caso eles optem por criar um **novo repositório** em vez de editar o antigo?
